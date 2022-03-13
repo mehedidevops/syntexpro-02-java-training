@@ -1,0 +1,24 @@
+
+U
+java:S1854@"?Remove this useless assignment to local variable "noOfStudent".(®·¸
+R
+java:S1854?"7Remove this useless assignment to local variable "abd".(€¸§¼ûÿÿÿÿ
+R
+java:S18543"<Remove this useless assignment to local variable "password".(÷—¯
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ·ğ÷şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™åØ¯ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üåË
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(Ò´õ¯ÿÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(øÕ¿Ë
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(®áàº
+S	java:S106."9Replace this use of System.out or System.err by a logger.(³üåÃúÿÿÿÿ
+C
+java:S14813"-Remove this unused "password" local variable.(÷—¯
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+M	java:S1069"9Replace this use of System.out or System.err by a logger.(±‚ ]
+N	java:S106:"9Replace this use of System.out or System.err by a logger.(ÊòÜõ
+C
+java:S1481?"(Remove this unused "abd" local variable.(€¸§¼ûÿÿÿÿ
+F
+java:S1481@"0Remove this unused "noOfStudent" local variable.(®·¸

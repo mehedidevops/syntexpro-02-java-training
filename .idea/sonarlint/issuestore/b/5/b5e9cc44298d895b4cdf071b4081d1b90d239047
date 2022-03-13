@@ -1,0 +1,17 @@
+
+C
+java:S1481".Remove this unused "firstName" local variable.(Ñ²ß
+B
+java:S1481"-Remove this unused "lastName" local variable.(¬‚ö[
+L
+java:S1481	"1Remove this unused "emailAddress" local variable.(‚òæƒüÿÿÿÿ
+C
+java:S1481
+"-Remove this unused "password" local variable.(øŸÔ×
+J
+java:S1481"4Remove this unused "confirmPassword" local variable.(ÿä„¥
+G
+java:S1481"1Remove this unused "mobileNumber" local variable.(ß•Òô
+F
+java:S1481"+Remove this unused "gender" local variable.(«žŸìûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¬ÁœÂûÿÿÿÿ

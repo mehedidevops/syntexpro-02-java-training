@@ -1,0 +1,7 @@
+
+Y
+java:S1854
+"7Remove this useless assignment to local variable "age".(Β‡ΰψÿÿÿÿ8Ά¥ίσ/
+Y
+java:S1854	"7Remove this useless assignment to local variable "age".(“θÿΔÿÿÿÿÿ8Ά¥ίσ/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(τΜΏς
