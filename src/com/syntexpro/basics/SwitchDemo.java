@@ -1,5 +1,7 @@
 package com.syntexpro.basics;
 
+import static com.syntexpro.basics.Registration.universityName;
+
 public class SwitchDemo {
 
     public static void main(String[] args) {
@@ -9,6 +11,7 @@ public class SwitchDemo {
         switch (name) {
             case "Married":
                 System.out.println("DMV Insurance discount 50 %");
+                System.out.println(universityName);
                 break;
             case "Single":
                 System.out.println("DMV Insurance discount 100 %");
@@ -18,7 +21,6 @@ public class SwitchDemo {
                 break;
             default:
                 System.out.println("You can not get insurance");
-
 
 
 

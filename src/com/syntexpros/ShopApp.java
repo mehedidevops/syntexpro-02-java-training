@@ -4,8 +4,10 @@ public class ShopApp {
 
     public static void main(String[] args) {
 
-        Customer c1 = new Customer();
-        System.out.println("Welcome to my store == " + c1.name);
+
+
+        var customer = new Customer();  //Customer class object/instance
+        System.out.println("Welcome to my store == " + customer.name);
 
     }
 }
